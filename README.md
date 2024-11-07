@@ -1,6 +1,5 @@
 # BMI Calculator
 
-## Description
 This Python program calculates the Body Mass Index (BMI) based on user-provided height and weight. BMI is a measure of body fat based on height and weight, commonly used to classify underweight, normal weight, overweight, and obesity in adults.
 
 ## Features
